@@ -10,7 +10,8 @@ namespace Strings
             string programLanguage;
             int experienceYears;
             int annualProfit;
-            double minProfit, maxProfit;
+            double minProfit;
+            double maxProfit;
             
             double lowFactor = 0.9;
             double upperFactor = 1.1;
